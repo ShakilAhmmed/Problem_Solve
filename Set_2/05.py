@@ -1,0 +1,5 @@
+celsius, fahrenheit = input().split()
+cel_to_far = round((int(fahrenheit) - 32) * 5 / 9)
+far_to_cel = round((int(celsius) * 9 / 5) + 32)
+print(fahrenheit, "°C is", cel_to_far, "in Celsius")
+print(celsius, "°F is", far_to_cel, "in Fahrenheit")
