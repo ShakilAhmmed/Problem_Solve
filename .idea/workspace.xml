@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2544a29f-9df8-4860-ac95-48bc55fafcf7" name="Default Changelist" comment="" />
+    <list default="true" id="2544a29f-9df8-4860-ac95-48bc55fafcf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +17,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OpmGvGPW9F3Tj6VCsdDVKb4p18" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -39,8 +47,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.17">
-    <configuration name="13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.05">
+    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem_Solve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,12 +56,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_1/13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_2/01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem_Solve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,12 +78,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_1/14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_2/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem_Solve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,12 +100,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_1/15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_2/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem_Solve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_1/16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_2/04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problem_Solve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,12 +144,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Set_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_1/17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Set_2/05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.17" />
-        <item itemvalue="Python.16" />
-        <item itemvalue="Python.15" />
-        <item itemvalue="Python.14" />
-        <item itemvalue="Python.13" />
+        <item itemvalue="Python.05" />
+        <item itemvalue="Python.04" />
+        <item itemvalue="Python.03" />
+        <item itemvalue="Python.02" />
+        <item itemvalue="Python.01" />
       </list>
     </recent_temporary>
   </component>
@@ -172,21 +180,35 @@
       <updated>1564682819230</updated>
       <workItem from="1564682823906" duration="1526000" />
       <workItem from="1564753930292" duration="13000" />
-      <workItem from="1564755158903" duration="2594000" />
+      <workItem from="1564755158903" duration="3229000" />
+      <workItem from="1564851575152" duration="2113000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Problem_Solve$06.coverage" NAME="06 Coverage Results" MODIFIED="1564755914880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
     <SUITE FILE_PATH="coverage/Problem_Solve$09.coverage" NAME="09 Coverage Results" MODIFIED="1564756457190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
-    <SUITE FILE_PATH="coverage/Problem_Solve$03.coverage" NAME="03 Coverage Results" MODIFIED="1564683101638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$03.coverage" NAME="03 Coverage Results" MODIFIED="1564853163180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_2" />
     <SUITE FILE_PATH="coverage/Problem_Solve$13.coverage" NAME="13 Coverage Results" MODIFIED="1564756727684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
-    <SUITE FILE_PATH="coverage/Problem_Solve$05.coverage" NAME="05 Coverage Results" MODIFIED="1564755792442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
-    <SUITE FILE_PATH="coverage/Problem_Solve$04.coverage" NAME="04 Coverage Results" MODIFIED="1564755272148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
-    <SUITE FILE_PATH="coverage/Problem_Solve$01.coverage" NAME="01 Coverage Results" MODIFIED="1564682954670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$05.coverage" NAME="05 Coverage Results" MODIFIED="1564853856419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_2" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$04.coverage" NAME="04 Coverage Results" MODIFIED="1564853385735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_2" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$01.coverage" NAME="01 Coverage Results" MODIFIED="1564852891202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_2" />
     <SUITE FILE_PATH="coverage/Problem_Solve$08.coverage" NAME="08 Coverage Results" MODIFIED="1564756161050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
     <SUITE FILE_PATH="coverage/Problem_Solve$10.coverage" NAME="10 Coverage Results" MODIFIED="1564756479191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
     <SUITE FILE_PATH="coverage/Problem_Solve$11.coverage" NAME="11 Coverage Results" MODIFIED="1564756534734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
@@ -194,7 +216,7 @@
     <SUITE FILE_PATH="coverage/Problem_Solve$17.coverage" NAME="17 Coverage Results" MODIFIED="1564757517764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
     <SUITE FILE_PATH="coverage/Problem_Solve$07.coverage" NAME="07 Coverage Results" MODIFIED="1564756085550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
     <SUITE FILE_PATH="coverage/Problem_Solve$15.coverage" NAME="15 Coverage Results" MODIFIED="1564756992309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
-    <SUITE FILE_PATH="coverage/Problem_Solve$02.coverage" NAME="02 Coverage Results" MODIFIED="1564682961440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$02.coverage" NAME="02 Coverage Results" MODIFIED="1564852909664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_2" />
     <SUITE FILE_PATH="coverage/Problem_Solve$16.coverage" NAME="16 Coverage Results" MODIFIED="1564757147318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
     <SUITE FILE_PATH="coverage/Problem_Solve$12.coverage" NAME="12 Coverage Results" MODIFIED="1564756602668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Set_1" />
   </component>
