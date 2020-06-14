@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3866d46b-8fc0-48ca-9a6a-93af579b396a" name="Default Changelist" comment="" />
+    <list default="true" id="3866d46b-8fc0-48ca-9a6a-93af579b396a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z7mJUE0arZuQYjhD0WzvWxBrjd" />
   <component name="ProjectViewState">
@@ -26,8 +31,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager" selected="Python.Pyramid">
-    <configuration name="BeautifulMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SoldierandBananas">
+    <configuration name="BoyorGirl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProblemSolve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,7 +45,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForces/BeautifulMatrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForces/BoyorGirl.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BigFactorials" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Day19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProblemSolve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,12 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toph-Problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/30_Days" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toph-Problem/BigFactorials.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/30_Days/Day19.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,29 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Bit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ProblemSolve" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForces" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForces/Bit.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PatyaString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HelpfulMaths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProblemSolve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +89,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForces/PatyaString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForces/HelpfulMaths.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pyramid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="SoldierandBananas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProblemSolve" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +106,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toph-Problem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForces" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toph-Problem/Pyramid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForces/SoldierandBananas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StonesontheTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProblemSolve" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeForces" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeForces/StonesontheTable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Pyramid" />
-        <item itemvalue="Python.BigFactorials" />
-        <item itemvalue="Python.BeautifulMatrix" />
-        <item itemvalue="Python.PatyaString" />
-        <item itemvalue="Python.Bit" />
+        <item itemvalue="Python.SoldierandBananas" />
+        <item itemvalue="Python.BoyorGirl" />
+        <item itemvalue="Python.StonesontheTable" />
+        <item itemvalue="Python.HelpfulMaths" />
+        <item itemvalue="Python.Day19" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +187,12 @@
       <workItem from="1590162970170" duration="3438000" />
       <workItem from="1590248042598" duration="2965000" />
       <workItem from="1590783216368" duration="1201000" />
+      <workItem from="1590785256259" duration="62000" />
+      <workItem from="1590851941790" duration="50000" />
+      <workItem from="1591469664996" duration="170000" />
+      <workItem from="1591469866365" duration="680000" />
+      <workItem from="1591730944463" duration="3207000" />
+      <workItem from="1592155135356" duration="3154000" />
     </task>
     <servers />
   </component>
@@ -189,26 +200,26 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590262972188">
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590851990851">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590262972188" />
-    <state width="1874" height="268" key="GridCell.Tab.0.bottom" timestamp="1590784264772">
+    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1590851990851" />
+    <state width="1874" height="268" key="GridCell.Tab.0.bottom" timestamp="1592158174834">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1590784264772" />
-    <state width="1874" height="268" key="GridCell.Tab.0.center" timestamp="1590784264771">
+    <state width="1874" height="268" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1592158174834" />
+    <state width="1874" height="268" key="GridCell.Tab.0.center" timestamp="1592158174833">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1590784264771" />
-    <state width="1874" height="268" key="GridCell.Tab.0.left" timestamp="1590784264771">
+    <state width="1874" height="268" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1592158174833" />
+    <state width="1874" height="268" key="GridCell.Tab.0.left" timestamp="1592158174833">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1590784264771" />
-    <state width="1874" height="268" key="GridCell.Tab.0.right" timestamp="1590784264771">
+    <state width="1874" height="268" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1592158174833" />
+    <state width="1874" height="268" key="GridCell.Tab.0.right" timestamp="1592158174833">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="268" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1590784264771" />
+    <state width="1874" height="268" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1592158174833" />
     <state width="1874" height="332" key="GridCell.Tab.1.bottom" timestamp="1589663290124">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -243,8 +254,10 @@
     <state x="100" y="125" width="1720" height="855" key="dock-window-2/0.27.1920.1053@0.27.1920.1053" timestamp="1589734044196" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Problem_Solve$BoyorGirl.coverage" NAME="BoyorGirl Coverage Results" MODIFIED="1592157198506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Pyramid.coverage" NAME="Pyramid Coverage Results" MODIFIED="1590784420567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toph-Problem" />
     <SUITE FILE_PATH="coverage/ProblemSolve$HandShake.coverage" NAME="HandShake Coverage Results" MODIFIED="1589390453847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$StonesontheTable.coverage" NAME="StonesontheTable Coverage Results" MODIFIED="1592156310388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
     <SUITE FILE_PATH="coverage/ProblemSolve$StringTask.coverage" NAME="StringTask Coverage Results" MODIFIED="1590163597267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
     <SUITE FILE_PATH="coverage/ProblemSolve$DominoPiling.coverage" NAME="DominoPiling Coverage Results" MODIFIED="1590079353240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
     <SUITE FILE_PATH="coverage/ProblemSolve$1365.coverage" NAME="1365 Coverage Results" MODIFIED="1589484125333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LetCode" />
@@ -261,6 +274,7 @@
     <SUITE FILE_PATH="coverage/ProblemSolve$BigFactorials.coverage" NAME="BigFactorials Coverage Results" MODIFIED="1590783627002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toph-Problem" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Day16.coverage" NAME="Day16 Coverage Results" MODIFIED="1589921036948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30_Days" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Team.coverage" NAME="Team Coverage Results" MODIFIED="1590077434974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$Reverse.coverage" NAME="Reverse Coverage Results" MODIFIED="1591731360756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30_Days" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Divisor.coverage" NAME="Divisor Coverage Results" MODIFIED="1589643482836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contest" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Cutting_Paper_Squares.coverage" NAME="Cutting_Paper_Squares Coverage Results" MODIFIED="1589564948407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/ProblemSolve$FibonacciNumbers.coverage" NAME="FibonacciNumbers Coverage Results" MODIFIED="1589955022003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toph-Problem" />
@@ -279,9 +293,11 @@
     <SUITE FILE_PATH="coverage/ProblemSolve$AlphabetRangoli.coverage" NAME="AlphabetRangoli Coverage Results" MODIFIED="1589728467056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/ProblemSolve$ICPC.coverage" NAME="ICPC Coverage Results" MODIFIED="1589911599269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toph-Problem" />
     <SUITE FILE_PATH="coverage/ProblemSolve$BPLMubarak.coverage" NAME="BPLMubarak Coverage Results" MODIFIED="1589908498724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toph-Problem" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$SoldierandBananas.coverage" NAME="SoldierandBananas Coverage Results" MODIFIED="1592158494117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Find_The_Point.coverage" NAME="Find_The_Point Coverage Results" MODIFIED="1589386721525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/ProblemSolve$1281.coverage" NAME="1281 Coverage Results" MODIFIED="1589660573691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LetCode" />
     <SUITE FILE_PATH="coverage/ProblemSolve$WayTooLongWords.coverage" NAME="WayTooLongWords Coverage Results" MODIFIED="1589993223097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$WordCapitalization.coverage" NAME="WordCapitalization Coverage Results" MODIFIED="1591469898428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
     <SUITE FILE_PATH="coverage/ProblemSolve$SummingtheNseries.coverage" NAME="SummingtheNseries Coverage Results" MODIFIED="1589569888715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/ProblemSolve$MinimumHeightTriangle.coverage" NAME="MinimumHeightTriangle Coverage Results" MODIFIED="1589472445998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/ProblemSolve$771.coverage" NAME="771 Coverage Results" MODIFIED="1589483579808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LetCode" />
@@ -290,11 +306,14 @@
     <SUITE FILE_PATH="coverage/ProblemSolve$PrimeFactors.coverage" NAME="PrimeFactors Coverage Results" MODIFIED="1589480502149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/ProblemSolve$SparseArrays.coverage" NAME="SparseArrays Coverage Results" MODIFIED="1589734374883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
     <SUITE FILE_PATH="coverage/ProblemSolve$GPA.coverage" NAME="GPA Coverage Results" MODIFIED="1589745652100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contest" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$HelpfulMaths.coverage" NAME="HelpfulMaths Coverage Results" MODIFIED="1592155523163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
     <SUITE FILE_PATH="coverage/ProblemSolve$ArraysDS.coverage" NAME="ArraysDS Coverage Results" MODIFIED="1589733927618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$Day18.coverage" NAME="Day18 Coverage Results" MODIFIED="1591731845879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30_Days" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Weather.coverage" NAME="Weather Coverage Results" MODIFIED="1589746573786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Contest" />
     <SUITE FILE_PATH="coverage/ProblemSolve$IsPrime.coverage" NAME="IsPrime Coverage Results" MODIFIED="1589954959122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toph-Problem" />
     <SUITE FILE_PATH="coverage/ProblemSolve$Day14.coverage" NAME="Day14 Coverage Results" MODIFIED="1589920017488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30_Days" />
     <SUITE FILE_PATH="coverage/ProblemSolve$TheatreSquare.coverage" NAME="TheatreSquare Coverage Results" MODIFIED="1589992550375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
+    <SUITE FILE_PATH="coverage/Problem_Solve$Day19.coverage" NAME="Day19 Coverage Results" MODIFIED="1591732343438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/30_Days" />
     <SUITE FILE_PATH="coverage/ProblemSolve$NextRound.coverage" NAME="NextRound Coverage Results" MODIFIED="1590076726795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeForces" />
   </component>
 </project>
